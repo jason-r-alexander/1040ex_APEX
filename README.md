@@ -1,2 +1,2 @@
 # 1040ex_APEX
-Tax Return calculator based on 1040ez
+TurboTax-like program developed with Oracle APEX 5 and PL/SQL based around the 1040ez IRS form
